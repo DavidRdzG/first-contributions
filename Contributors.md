@@ -25,6 +25,7 @@
 - [Simreen Kaur](https://github.com/simreenkaur/)
 - [Sherin V](https://github.com/SherinV/)
 - [Zuliat Owoade](https://github.com/zuliatowoade)
+- [DavidRdzG](https://github.com/DavidRdzG)
 - [Gracyn Green](https://github.com/gg371)
 - [A Dinkins](https://github.com/adinkins2019)
 - [Priyanka Surakanti](https://github.com/priyanka-surakanti/)
